@@ -18,8 +18,8 @@
     <body>
         <header>
             <h1 class="site-heading text-center text-faded d-none d-lg-block">
-                <span class="site-heading-upper text-primary mb-3">A Free Bootstrap Business Theme</span>
-                <span class="site-heading-lower">Business Casual</span>
+                <span class="site-heading-upper text-primary mb-3">Butuan City</span>
+                <span class="site-heading-lower">Fulcrum Coffee</span>
             </h1>
         </header>
         <!-- Navigation-->
@@ -34,7 +34,6 @@
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/products">Products</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/store">Store</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/login">Login</a></li>
-                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/register">Register</a></li>
                     </ul>
                 </div>
             </div>
@@ -48,9 +47,18 @@
                             <div class="bg-faded rounded p-5">
                                 <h2 class="section-heading mb-4">
                                     <span class="section-heading-upper">Strong Coffee, Strong Roots</span>
-                                    <span class="section-heading-lower">About Our Cafe</span>
+                                    <span class="section-heading-lower">Our Origins</span>
                                 </h2>
-                                <p>Founded in 1987 by the Hernandez brothers, our establishment has been serving up rich coffee sourced from artisan farmers in various regions of South and Central America. We are dedicated to travelling the world, finding the best coffee, and bringing back to you here in our cafe.</p>
+                                <p>We believe that the Philippines is rich in culture and artistry. We are proud of our roots.
+
+                                    The coffee and service we offer are a testament to our deep love of our country. Established by Steve Benitez on June 28, 1996, we have reinvented our platform for startup businesses and social enterprises to put the global limelight on Philippine Coffee and Filipino tradition.
+                                    
+                                    Our Bayanihan Mentality drives us to give social enterprises a voice, leaving a legacy of positive change. Bo’s Coffee works with young brands from all over the Philippines such as Theo and Philo Chocolates, Bayani Brew, Anthill Fabric Gallery, Tsaa Laya, Bote Cental, AGREA Coco Sugar and Hope in a Bottle.
+                                    
+                                    We want everyone we meet to feel welcome in a place where they can work, laugh, or bond– A place to call home.
+                                    
+                                    We are Fulcrum Coffee. Your Homegrown Brew.</p>
+                                    
                                 <p class="mb-0">
                                     We guarantee that you will fall in
                                     <em>lust</em>

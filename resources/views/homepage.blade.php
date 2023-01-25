@@ -19,7 +19,7 @@
         <header>
             <h1 class="site-heading text-center text-faded d-none d-lg-block">
                 <span class="site-heading-upper text-primary mb-3">Butuan City</span>
-                <span class="site-heading-lower">Bo's Coffee</span>
+                <span class="site-heading-lower">Fulcrum Coffee</span>
             </h1>
         </header>
         <!-- Navigation-->
@@ -34,7 +34,6 @@
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/products">Products</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/store">Store</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/login">Login</a></li>
-                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/register">Register</a></li>
                     </ul>
                 </div>
             </div>
@@ -46,9 +45,9 @@
                     <div class="intro-text left-0 text-center bg-faded p-5 rounded">
                         <h2 class="section-heading mb-4">
                             <span class="section-heading-upper">Fresh Coffee</span>
-                            <span class="section-heading-lower">Worth Drinking</span>
+                            <span class="section-heading-lower">What makes our coffee so special?</span>
                         </h2>
-                        <p class="mb-3">Every cup of our quality artisan coffee starts with locally sourced, hand picked ingredients. Once you try it, our coffee will be a blissful addition to your everyday morning routine - we guarantee it!</p>
+                        <p class="mb-3">Bo's Coffee is known for "just-roasted freshness"—its beans, mostly from Cordillera and Bukidnon, are delivered to its stores soon after roasting so that you can enjoy the distinctively bold, roasted flavour of Bo’s.</p>
                         <div class="intro-button mx-auto"><a class="btn btn-primary btn-xl" href="#!">Visit Us Today!</a></div>
                     </div>
                 </div>

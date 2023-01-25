@@ -18,8 +18,8 @@
     <body>
         <header>
             <h1 class="site-heading text-center text-faded d-none d-lg-block">
-                <span class="site-heading-upper text-primary mb-3">A Free Bootstrap Business Theme</span>
-                <span class="site-heading-lower">Business Casual</span>
+                <span class="site-heading-upper text-primary mb-3">Butuan City</span>
+                <span class="site-heading-lower">Fulcrum Coffee</span>
             </h1>
         </header>
         <!-- Navigation-->
@@ -34,7 +34,6 @@
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/products">Products</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/store">Store</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/login">Login</a></li>
-                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/register">Register</a></li>
                     </ul>
                 </div>
             </div>
@@ -51,44 +50,44 @@
                             <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
                                 <li class="list-unstyled-item list-hours-item d-flex">
                                     Sunday
-                                    <span class="ms-auto">Closed</span>
+                                    <span class="ms-auto">10:00 AM to 2:00 AM</span>
                                 </li>
                                 <li class="list-unstyled-item list-hours-item d-flex">
                                     Monday
-                                    <span class="ms-auto">7:00 AM to 8:00 PM</span>
+                                    <span class="ms-auto">10:00 AM to 2:00 AM</span>
                                 </li>
                                 <li class="list-unstyled-item list-hours-item d-flex">
                                     Tuesday
-                                    <span class="ms-auto">7:00 AM to 8:00 PM</span>
+                                    <span class="ms-auto">10:00 AM to 2:00 AM</span>
                                 </li>
                                 <li class="list-unstyled-item list-hours-item d-flex">
                                     Wednesday
-                                    <span class="ms-auto">7:00 AM to 8:00 PM</span>
+                                    <span class="ms-auto">10:00 AM to 2:00 AM</span>
                                 </li>
                                 <li class="list-unstyled-item list-hours-item d-flex">
                                     Thursday
-                                    <span class="ms-auto">7:00 AM to 8:00 PM</span>
+                                    <span class="ms-auto">10:00 AM to 2:00 AM</span>
                                 </li>
                                 <li class="list-unstyled-item list-hours-item d-flex">
                                     Friday
-                                    <span class="ms-auto">7:00 AM to 8:00 PM</span>
+                                    <span class="ms-auto">10:00 AM to 2:00 AM</span>
                                 </li>
                                 <li class="list-unstyled-item list-hours-item d-flex">
                                     Saturday
-                                    <span class="ms-auto">9:00 AM to 5:00 PM</span>
+                                    <span class="ms-auto">10:00 AM to 2:00 AM</span>
                                 </li>
                             </ul>
                             <p class="address mb-5">
                                 <em>
-                                    <strong>1116 Orchard Street</strong>
+                                    <strong>XG2H+CJV</strong>
                                     <br />
-                                    Golden Valley, Minnesota
+                                    Butuan City, Agusan Del Norte
                                 </em>
                             </p>
                             <p class="mb-0">
                                 <small><em>Call Anytime</em></small>
                                 <br />
-                                (317) 585-8468
+                                (085) 817 1032
                             </p>
                         </div>
                     </div>
