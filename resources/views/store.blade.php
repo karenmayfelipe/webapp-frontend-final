@@ -18,7 +18,7 @@
     <body>
         <header>
             <h1 class="site-heading text-center text-faded d-none d-lg-block">
-                <span class="site-heading-upper text-primary mb-3">Butuan City</span>
+                <span class="site-heading-upper text-primary mb-3">SM Butuan City</span>
                 <span class="site-heading-lower">Fulcrum Coffee</span>
             </h1>
         </header>
@@ -79,7 +79,7 @@
                             </ul>
                             <p class="address mb-5">
                                 <em>
-                                    <strong>XG2H+CJV</strong>
+                                    <strong>JC Aquino Avenue</strong>
                                     <br />
                                     Butuan City, Agusan Del Norte
                                 </em>
@@ -87,7 +87,7 @@
                             <p class="mb-0">
                                 <small><em>Call Anytime</em></small>
                                 <br />
-                                (085) 817 1032
+                                0970 956 9804
                             </p>
                         </div>
                     </div>

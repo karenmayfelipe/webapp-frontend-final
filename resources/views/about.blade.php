@@ -18,7 +18,7 @@
     <body>
         <header>
             <h1 class="site-heading text-center text-faded d-none d-lg-block">
-                <span class="site-heading-upper text-primary mb-3">Butuan City</span>
+                <span class="site-heading-upper text-primary mb-3">SM Butuan City</span>
                 <span class="site-heading-lower">Fulcrum Coffee</span>
             </h1>
         </header>
@@ -46,24 +46,18 @@
                         <div class="col-xl-9 col-lg-10 mx-auto">
                             <div class="bg-faded rounded p-5">
                                 <h2 class="section-heading mb-4">
-                                    <span class="section-heading-upper">Strong Coffee, Strong Roots</span>
+                                    <span class="section-heading-upper">Discover Something New</span>
                                     <span class="section-heading-lower">Our Origins</span>
                                 </h2>
-                                <p>We believe that the Philippines is rich in culture and artistry. We are proud of our roots.
-
-                                    The coffee and service we offer are a testament to our deep love of our country. Established by Steve Benitez on June 28, 1996, we have reinvented our platform for startup businesses and social enterprises to put the global limelight on Philippine Coffee and Filipino tradition.
-                                    
-                                    Our Bayanihan Mentality drives us to give social enterprises a voice, leaving a legacy of positive change. Bo’s Coffee works with young brands from all over the Philippines such as Theo and Philo Chocolates, Bayani Brew, Anthill Fabric Gallery, Tsaa Laya, Bote Cental, AGREA Coco Sugar and Hope in a Bottle.
-                                    
-                                    We want everyone we meet to feel welcome in a place where they can work, laugh, or bond– A place to call home.
-                                    
-                                    We are Fulcrum Coffee. Your Homegrown Brew.</p>
-                                    
-                                <p class="mb-0">
-                                    We guarantee that you will fall in
-                                    <em>lust</em>
-                                    with our decadent blends the moment you walk inside until you finish your last sip. Join us for your daily routine, an outing with friends, or simply just to enjoy some alone time.
+                                <p>
+                                    As a simple device supporting a lever, the fulcrum plays a key role in lightening the load. As a name, it signals the company’s commitment to collaborating with our partners and customers. In 2012, Fulcrum brought together local roasters Urban City (1993) and Silver Cup (1994) under one roof with a vision to elevate our approach to coffee and service. We established Fulcrum as a house of premium coffee brands, adding single origin coffees. We kept the two brands (Silver Cup + Urban City) to honor its legacy and history, as well as the precious relationships we have built with existing customers. Originally born as a full-service, wholesale coffee supplier, Fulcrum entered the consumer market in 2017 with a website launch, and in 2018 with the opening of the brick and mortar Fulcrum Café. We are constantly growing and evolving all three brands under the Fulcrum umbrella.
                                 </p>
+                                    <p class="mb-3">
+                                    <em>“Every coffee has a story to tell, starting where it’s from.”</em>
+                                <p class="mb-3">    
+                                    As a fifth-generation Costa Rican coffee farmer, Blas knows how much work goes into every cup of coffee. That’s why he treats each bean with respect. An experienced roaster and an SCAA Licensed Q Grader since 2010, he oversees Fulcrum’s coffee program while constantly learning and honing his unique coffee sensibilities. Blas travels often, hand-selecting green coffees, building lasting relationships with farmers, and helping them implement sustainable practices.
+                                    <em></em>
+                                                                    </p>
                             </div>
                         </div>
                     </div>

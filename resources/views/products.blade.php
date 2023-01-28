@@ -18,7 +18,7 @@
     <body>
         <header>
             <h1 class="site-heading text-center text-faded d-none d-lg-block">
-                <span class="site-heading-upper text-primary mb-3">Butuan City</span>
+                <span class="site-heading-upper text-primary mb-3">SM Butuan City</span>
                 <span class="site-heading-lower">Fulcrum Coffee</span>
             </h1>
         </header>

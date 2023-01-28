@@ -18,7 +18,7 @@
     <body>
         <header>
             <h1 class="site-heading text-center text-faded d-none d-lg-block">
-                <span class="site-heading-upper text-primary mb-3">Butuan City</span>
+                <span class="site-heading-upper text-primary mb-3">SM Butuan City</span>
                 <span class="site-heading-lower">Fulcrum Coffee</span>
             </h1>
         </header>
@@ -47,7 +47,7 @@
                             <span class="section-heading-upper">Fresh Coffee</span>
                             <span class="section-heading-lower">What makes our coffee so special?</span>
                         </h2>
-                        <p class="mb-3">Bo's Coffee is known for "just-roasted freshness"—its beans, mostly from Cordillera and Bukidnon, are delivered to its stores soon after roasting so that you can enjoy the distinctively bold, roasted flavour of Bo’s.</p>
+                        <p class="mb-3">Fulcrum Coffee is a local coffee shop in Butuan City that advocates the fulcrum balancing of unique flavors, great food, exotic cocktail, and better coffee experience! They offer premium burger, specialty pasta, rice meals, Nachos & Sandwiches, beers and cocktails, cold frappes, shakes, hot & cold coffee and tea based beverages. Along with a unique ambiance and Free high speed Wifi, Fulcrum Coffee is the place to be.</p>
                         <div class="intro-button mx-auto"><a class="btn btn-primary btn-xl" href="#!">Visit Us Today!</a></div>
                     </div>
                 </div>
