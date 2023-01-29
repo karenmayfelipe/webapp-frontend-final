@@ -63,13 +63,47 @@
                     </div>
                 </div>
             </div>
+
         </section>
-        <footer class="footer text-faded text-center py-5">
-            <div class="container"><p class="m-0 small">Copyright &copy; Your Website 2022</p></div>
-        </footer>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
-    </body>
-</html>
+        <section class="page-section about-heading">
+            <div class="container">
+                <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="assets/img/r8a8-design-Fulcrum-Coffee.jpg" alt="..." />
+                <div class="about-heading-content">
+                    <div class="row">
+                        <div class="col-xl-9 col-lg-10 mx-auto">
+                            <div class="bg-faded rounded p-5">
+                                <h2 class="section-heading mb-4">
+                                    <span class="section-heading-upper">Strong Coffee, Strong Roots</span>
+                                    <span class="section-heading-lower">About Our Cafe</span>
+                                </h2>
+                                <p>Value for money but the taste is what totally it's worth visiting!
+                                </h2>   
+                                    <p class="mb-0">  
+                                </h2>         
+                                <p>Taste is the very first reason. From the frappes to their smoothies to their cakes and especially their meals. Nothing beats it from a coffee shop perspective. The food is fantastic. It includes cheese burger, their banoffee pie, their signature frappucinos, and their lattes. Yum, yum, and yum!
+                                    <p class="mb-0">
+                                <p>The price is definitely upscale but probably the most affordable from all upscale coffee shops around. That is what value for money means!
+                                    <p class="mb-0">
+                                <p>Unlike other coffee shops that serve their hot coffee in a covered cup and hides all their errors or mess inside, this one serves it in a cup where you could see the artistry of their obviously skilled baristas. They call it coffee art!
+                                    <p class="mb-0">
+                                <p>Their staff are knowledgable. You can ask them what a cold brew is, what a latte is, and they will answer you with a straight face, unlike other coffee shops. Try asking around and you will know what i mean.
+                                    <p class="mb-0">
+                                <p>While this is hot during the day (and they probably should put an umbrella outside so it can be used in the afternoons), it is perfect at night. There's actually a fresh breeze that gives you a relaxing feeling!
+                                    <p class="mb-0">
+                                <p>The ambiance is gorgeous! Talk about lots of painting materials that look expensive. steel and wood althroughout. It feels like you are not in the philippines when you are inside. It adds to the overall experience. It works for me!
+
+                     
+                                </p>
+                                <p class="mb-0">
+                                    Overall a very  
+                                    <em>decent</em>
+                                    coffee shop!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        
