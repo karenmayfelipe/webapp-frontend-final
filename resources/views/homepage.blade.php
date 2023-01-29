@@ -56,6 +56,7 @@
         <section class="page-section cta">
             <div class="container">
                 <div class="row">
+                    <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="assets/img/f1.png" alt="..." />
                     <div class="col-xl-9 mx-auto">
                         <div class="cta-inner bg-faded text-center rounded">
                             <h2 class="section-heading mb-4">
