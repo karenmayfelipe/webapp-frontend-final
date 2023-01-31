@@ -10,12 +10,8 @@
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900 dark:text-gray-100">
 
-
                     
-                    <form method="POST" action="{{ route('register') }}">
-                    
-
-                    
+                    <form method="POST" action="{{ url('/users/add') }}">    
                             @csrf
                     
                             <!-- Name -->
@@ -37,7 +33,7 @@
                                 <x-input-label for="password" :value="__('Password')" />
                     
                                 <x-text-input id="password" class="block mt-1 w-full"
-                                                type="password"
+                                                type="text"
                                                 name="password"
                                                 required autocomplete="new-password" />
                     

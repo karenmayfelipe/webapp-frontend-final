@@ -5,7 +5,14 @@
         </h2>
     </x-slot>
 
+
+
     <div class="py-12">
+     <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 my-5">
+            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">   
+        </div>
+    </div>
+
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900 dark:text-gray-100">
@@ -14,9 +21,13 @@
                         {{$header}}
                     </h2>
 
-                    <button class="float-right rounded-full bg-orange-400 p-1 hover:bg-orange-500">
+                    <a href="{{ url('/users/add'}})">
+                        <button class="float-right rounded-full bg-orange-400 p-1 hover:bg-orange-500">
                         Add Users
                     </button>
+                    
+                    </a>
+                    
 
 
                     <table class="table-auto w-full">
