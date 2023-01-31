@@ -11,7 +11,7 @@
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                     
 
-                    <h1>Welcome! Thank you for logging in {{ Auth::user()->name}}!</h1>
+                    
                 </div>
             </div>
         </div>
