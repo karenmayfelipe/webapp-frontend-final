@@ -49,10 +49,18 @@ Route::post('/users/add', [UserController::class, 'store'])
         ->middleware(['auth', 'verified']);  
 
 
+
+
 Route::get('/users/update/{id}', [UserController::class, 'show'])
         ->middleware(['auth', 'verified']);   
 Route::post('/users/update/{id}', [UserController::class, 'update'])
-        ->middleware(['auth', 'verified']);   
+        ->middleware(['auth', 'verified']);
+
+Route::get('/users/delete/{id}', [UserController::class, 'show2'])
+        ->middleware(['auth', 'verified']);
+Route::get('/users/delete/{id}', [UserController::class, 'destroy'])
+        ->middleware(['auth', 'verified']);
+ 
                 
 
 

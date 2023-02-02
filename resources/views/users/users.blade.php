@@ -10,26 +10,18 @@
    <div class="py-12">
     @if ( session ('status') )
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 my-5">
-            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg" role='alert'>
-                <span class="font=meduim">Success alert!</span> {{session('status')  }}
+            <div class="p-4 mb-4 text-sm text-green bg-white dark:bg-orange-800 overflow-hidden shadow-sm sm:rounded-lg" role='alert'>
+                <span class="font=medium">Success alert!</span> {{session('status')  }}
             </div>
         </div>
     @endif
 
 
-    
-
-
-
-                
-    
-
-
-            
+               
 
 
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-                            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
+                            <div class="bg-white dark:bg-orange-600 overflow-hidden shadow-sm sm:rounded-lg">
                                     <div class="p-6 text-gray-900 dark:text-gray-100">
 
             
@@ -38,7 +30,7 @@
                     </h2>
 
                     <a href="{{ url('/users/add')}}">
-                        <button class="float-right rounded-full bg-orange-400 p-1 hover:bg-orange-500">
+                        <button class="float-right rounded-full bg-orange-600 p-1 hover:bg-orange-500">
                         Add Users
                     </button>
                     
@@ -64,14 +56,12 @@
                                <td class="text-center">{{$user->email}} </td>
                                <td class="text-center">
                                 <a href="{{ url('/users/update/' .$user->id) }}">
-                                    <button class="rounded-full bg-orange-400 p-1 hover:bg-orange-500">Update</button>
+                                    <button class="rounded-full bg-orange-800 p-1 hover:bg-orange-500">Update</button>
                                </a>
-
-                               <a href="{{ url('/users/password/' .$user->id) }}">
-                                    <button class="rounded-full bg-orange-400 p-1 hover:bg-orange-500">Password</button>
-                                </a>
+                               
+                               
                                 <a href="{{ url('/users/delete/' .$user->id) }}">    
-                                    <button class="rounded-full bg-orange-700 p-1 hover:bg-orange-500">Delete</button>
+                                    <button class="rounded-full bg-orange-800 p-1 hover:bg-orange-500">Delete</button>
                                </td>
                             </tr>
                         @endforeach

@@ -8,7 +8,7 @@
     <div class="py-12">
         @if ( session ('status') )
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 my-5">
-            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg" role='alert'>
+            <div class="p-4 mb-4 text-sm text-blue bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg" role='alert'>
                 <span class="font=meduim">Success alert!</span> {{session('status')  }}
             </div>
         </div>

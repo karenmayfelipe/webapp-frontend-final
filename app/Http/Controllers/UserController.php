@@ -100,13 +100,25 @@ class UserController extends Controller
 
     }
 
+    
+    public function show2(){
+        $user = User::all();
 
-        public function destroy($id)   
-        {
+        return redirect('/users');
+    }
 
 
-        }
-        
+    public function destroy($id){
+
+        $user = User::find($id);
+        $user->delete();
+            
+        session()->flash('status', 'Data Successfully Deleted!');
+
+        return redirect('/users'); 
+
+    }
+    
 
     
 
